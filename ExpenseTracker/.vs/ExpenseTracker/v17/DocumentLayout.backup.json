@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\hp\\onedrive\\desktop\\tnp project\\expensetracker\\expensetracker\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\expense\\expenselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\expenselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\views\\_viewstart.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\_viewstart.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\models\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\global.asax||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\global.asax||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\expensetracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996E5597-2F06-4AF7-8FB6-570E3664A7B1}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ExpenseTracker\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:52:13.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:25:53.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T14:47:08.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:42:26.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Global.asax.cs",
+              "RelativeToolTip": "ExpenseTracker\\Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:15:16.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:22:23.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T13:17:20.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:37:40.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:39:22.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpenseList.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\ExpenseList.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\ExpenseList.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\ExpenseList.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\ExpenseList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T14:27:03.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Expense\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:00:43.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T13:43:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T13:42:54.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Content\\Site.css",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Content\\Site.css",
+              "RelativeToolTip": "ExpenseTracker\\Content\\Site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T19:29:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:39:40.388Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\_ViewStart.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:39:17.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExpenseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Models\\ExpenseDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\ExpenseDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Models\\ExpenseDbContext.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\ExpenseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:36:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Expense.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:54:07.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Global.asax",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Global.asax",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Global.asax",
+              "RelativeToolTip": "ExpenseTracker\\Global.asax",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2025-04-27T17:20:15.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TNP Project\\ExpenseTracker\\ExpenseTracker\\Models\\User.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:34:02.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

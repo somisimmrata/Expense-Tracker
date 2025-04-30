@@ -1,0 +1,72 @@
+﻿@*@{
+        ViewBag.Title = "Home Page";
+    }
+
+    <main>
+        <section class="row" aria-labelledby="aspnetTitle">
+            <h1 id="title">ASP.NET</h1>
+            <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+            <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+        </section>
+
+        <div class="row">
+            <section class="col-md-4" aria-labelledby="gettingStartedTitle">
+                <h2 id="gettingStartedTitle">Getting started</h2>
+                <p>
+                    ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+                    enables a clean separation of concerns and gives you full control over markup
+                    for enjoyable, agile development.
+                </p>
+                <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+            </section>
+            <section class="col-md-4" aria-labelledby="librariesTitle">
+                <h2 id="librariesTitle">Get more libraries</h2>
+                <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+                <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+            </section>
+            <section class="col-md-4" aria-labelledby="hostingTitle">
+                <h2 id="hostingTitle">Web Hosting</h2>
+                <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+                <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+            </section>
+        </div>*@
+
+
+@*@{
+        ViewBag.Title = "Home";
+    }
+
+    <div style="text-align: center; padding: 60px; font-family: 'Segoe UI', sans-serif; background-color: #f8f9fa; min-height: 80vh;">
+        <h1 style="font-size: 2.5rem; color: #333;">Welcome to Expense Tracker</h1>
+
+        <p style="font-size: 18px; margin-top: 20px; color: #555;">
+            Track your daily spending, set budgets, and visualize where your money goes.
+        </p>
+
+        <a href="@Url.Action("Dashboard", "Home")"
+           style="display: inline-block; margin-top: 30px; padding: 12px 24px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">
+            Go to Dashboard
+        </a>
+
+        <div style="margin-top: 50px; color: #888; font-size: 14px;">
+            <p>Need help? Try Registering or Logging in using the navigation bar above.</p>
+        </div>
+    </div>*@
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<div style="position: relative; background: url('/Content/3.mp4') no-repeat center center fixed; background-size: cover; height: 100vh; width: 100%;">
+    <!-- 🔲 Overlay for transparency -->
+    <div style="position: absolute; top: 0; left: 0; height: 100%; width: 100%; background-color: rgba(255, 255, 255, 0.7); display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <h1 style="font-size: 40px; font-weight: bold; color: #2c3e50;">👋 Welcome to <span style="color: #4CAF50;">Expense Tracker</span></h1>
+        <p style="font-size: 18px; margin-top: 10px; color: #333;">Track your spending, stay on budget, and take control of your finances.</p>
+        <a href="@Url.Action("Dashboard", "Home")"
+           style="margin-top: 25px; padding: 12px 24px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">
+            Go to Dashboard
+        </a>
+    </div>
+</div>
+
+

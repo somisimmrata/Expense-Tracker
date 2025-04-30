@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "_Layout";
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - Expense Tracker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Link to your CSS file -->
+    <link href="~/Content/site.css" rel="stylesheet" type="text/css" />
+</head>
+<body style="background: url('/Content/1.jpg'); background-size: cover; background-repeat: no-repeat; ">
+    <header>
+        <nav style= "background: rgba(0,0,0,0.4); padding: 15px; position: relative; z-index: 10;">
+            <ul style="list-style: none; margin: 0; padding: 0; display: flex; justify-content: center; gap: 30px;">
+                <li style="display: inline;">
+                    <a href="@Url.Action("Index", "Home")" style="color: white; font-weight: bold; text-decoration: none; padding: 8px 12px; border-radius: 5px;" onmouseover="this.style.backgroundColor='#388E3C'" onmouseout="this.style.backgroundColor='transparent'">Home</a>
+                </li>
+                <li style="display: inline;">
+                    <a href="@Url.Action("Dashboard", "Home")" style="color: white; font-weight: bold; text-decoration: none; padding: 8px 12px; border-radius: 5px;" onmouseover="this.style.backgroundColor='#388E3C'" onmouseout="this.style.backgroundColor='transparent'">Dashboard</a>
+                </li>
+                <li style="display: inline;">
+                    <a href="@Url.Action("Create", "Expense")" style="color: white; font-weight: bold; text-decoration: none; padding: 8px 12px; border-radius: 5px;" onmouseover="this.style.backgroundColor='#388E3C'" onmouseout="this.style.backgroundColor='transparent'">Add Expense</a>
+                </li>
+                <li style="display: inline;">
+                    <a href="@Url.Action("Login", "Account")" style="color: white; font-weight: bold; text-decoration: none; padding: 8px 12px; border-radius: 5px;" onmouseover="this.style.backgroundColor='#388E3C'" onmouseout="this.style.backgroundColor='transparent'">Login</a>
+                </li>
+                <li style="display: inline;">
+                    <a href="@Url.Action("Register", "Account")" style="color: white; font-weight: bold; text-decoration: none; padding: 8px 12px; border-radius: 5px;" onmouseover="this.style.backgroundColor='#388E3C'" onmouseout="this.style.backgroundColor='transparent'">Register</a>
+                </li>
+                <li style="display: inline;">
+                    <a href="@Url.Action("Logout", "Account")" style="color: white; font-weight: bold; text-decoration: none; padding: 8px 12px; border-radius: 5px;" onmouseover="this.style.backgroundColor='#388E3C'" onmouseout="this.style.backgroundColor='transparent'">Logout</a>
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <!-- Load Chart.js for Pie Chart (Expense by Category) -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</body>
+</html>
+

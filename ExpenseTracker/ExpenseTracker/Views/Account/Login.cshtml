@@ -1,0 +1,34 @@
+﻿@model ExpenseTracker.Models.User
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<div style="max-width: 400px; margin: 50px auto; padding: 30px; background: white; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); font-family: 'Segoe UI', sans-serif;">
+
+    <h2 style="text-align: center; color: #333;">Login</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div style="margin-bottom: 15px;">
+            @Html.LabelFor(m => m.Username)
+            @Html.TextBoxFor(m => m.Username, new { style = "width:100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" })
+        </div>
+
+        <div style="margin-bottom: 15px;">
+            @Html.LabelFor(m => m.Password)
+            @Html.PasswordFor(m => m.Password, new { style = "width:100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" })
+        </div>
+
+        <button type="submit" style="width: 100%; padding: 12px; background-color: #4CAF50; border: none; border-radius: 5px; color: white; font-size: 16px; cursor: pointer;">
+            Login
+        </button>
+
+        if (ViewBag.Error != null)
+        {
+            <div style="color: red; margin-top: 10px;">@ViewBag.Error</div>
+        }
+    }
+</div>

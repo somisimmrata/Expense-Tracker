@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ExpenseTracker.Models.Expense>
+@{
+    ViewBag.Title = "Expense List";
+}
+
+<h2>Your Expenses</h2>
+
+<table border="1">
+    <tr>
+        <th>Title</th>
+        <th>Amount</th>
+        <th>Category</th>
+        <th>Date</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Amount</td>
+            <td>@item.Category</td>
+            <td>@item.Date.ToShortDateString()</td>
+        </tr>
+    }
+</table>
